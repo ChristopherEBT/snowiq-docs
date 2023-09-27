@@ -17,7 +17,7 @@ comments: true
 
 ### Accepting Assignment
 
-When a Supervisor assigns a route, a ticket, or an address-specific assignment, the Driver receives a notification as seen below. Press 'Ok' and follow the steps below:
+When a Supervisor decides to assign a route, a ticket, or an address-specific assignment, the Driver receives a notification as seen below. Press 'Ok' and follow the steps below:
 
 <img src="images/driver/da-drivers-activity/da-new-assignment.png" class="ios width-sm" data-lightbox="1" />
 
